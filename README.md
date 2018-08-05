@@ -1,0 +1,2 @@
+# void.cpp
+Sample code
